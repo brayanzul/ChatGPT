@@ -1,5 +1,10 @@
 # chatgpt
 
+![Captura045](https://user-images.githubusercontent.com/62777613/221423567-8dc66755-83e9-42ae-9ab3-186b864705a6.PNG)
+
+![Captura046](https://user-images.githubusercontent.com/62777613/221423576-ed5b2f0d-67f6-468b-8541-2b3f203392ce.PNG)
+
+
 A new Flutter project.
 
 ## Getting Started
